@@ -68,7 +68,7 @@ $database = [
 <body>
     <header>
         <div class="header">
-            ciao
+            <img src="./img/spotify_logo.webp" alt="">
         </div>
 
     </header>
