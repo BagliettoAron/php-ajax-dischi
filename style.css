@@ -44,6 +44,11 @@
     height: 100%;
 }
 
+.vForFlex{
+    display: flex;
+    justify-content: center;
+}
+
 .innerCard img{
     width: 100%;  
 }
